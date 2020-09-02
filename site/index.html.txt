@@ -1,0 +1,11 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Заголовок новости - Название сайта</title>
+    </head>
+    <body>
+    <h1>Заголовок новости</h1>
+        Текст новости
+    </body>
+</html>
